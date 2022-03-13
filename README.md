@@ -1,7 +1,7 @@
 # scrapee_webinar
 Online webinar page info scraper supporting (event.on24.com,register.gotowebinar.com,XXXXX.zoom.us,brigttalk) urls
 
-**Example Output: ** 
+**Example Output:** 
 
     info_of_zoom = {
             'Date': 16/10/2020,
@@ -24,15 +24,15 @@ Download ChromeDriver from : https://chromedriver.chromium.org/downloads
 
 **How to Use ?**
 
-**event.on24.com/..**
+**event.on24.com/..**\n
 scrapee_on24(url,driverpath)
 
-**register.gotowebinar.com/..**
+**register.gotowebinar.com/..**\n
 scrapee_gtw(url,driverpath)
 
-**brighttalk.com/..**
+**brighttalk.com/..**\n
 scrapee_brighttalk(url,driverpath)
 
-**XXX.zoom.XX/...**
+**XXX.zoom.XX/...**\n
 scrapee_zoom(url,driverpath)
 
